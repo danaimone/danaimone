@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m currently working on TnkCalc with GeoEngineer's as well as PNNL's DARPA Modeling Adversial Activity.
-- 🌱 I’m currently learning object-oriented design and computer vision.
-- 👯 I’m looking to collaborate on low-level/systems projects as well as full-stack web applications.
+- 🔭 I'm working on a whole bunch of stuff! Currently developing a Mutual Aid web application and my personal website in Node/Express.js
+- 🌱 I’m currently learning about technology for social good!
+- 👯 I’m looking to collaborate on everything from low-level applications to full-stack web applications. I'm also interested in mobile development and have Windows software dev experience.
 - 📫 How to reach me: github@danaimone.com
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm passionate about theatre!
